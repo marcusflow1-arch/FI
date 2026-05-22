@@ -1,0 +1,53 @@
+faction clans
+
+Norse: Spiritual Combat cloth will be robe like
+The Lower Realm (Realm of the Dead & Primordial Forces): This level consists of the underworld, primarily Helheim (or Hel, the land of the dead), along with Niflheim (primordial world of ice and mist) and Muspelheim (primordial world of fire). 
+
+The Middle Realm (Realm of Mortals & Giants): This level contains Midgard (the world of humans, or Earth) and Jotunheim (the realm of the Giants).
+The Upper Realm (Realm of the Gods): This level includes Asgard (the home of the Æsir gods like Odin and Thor), Vanaheim (home of the Vanir gods), and Alfheim (home of the Light Elves).
+
+Skill teacher 
+
+tank TYPE/TEACH/WEAPON:
+TYR
+THOR
+SUGUARD
+Semat tujgyjlbn bngACH/WEAPON: 
+Ullr  
+skadi
+Nubet
+Aurora 
+
+Damage type/teach/weapon
+King Hrólf Kraki
+Högni:
+Valkyries
+Eos
+Enyo
+
+RACE CREATION/ SECTION
+Samurai: selection race/face Japan korea Chinese
+Africa : selection race/face  different part of Africa
+UK:selection race/face  Greece  Roman  roman/africa
+Norse :section race/face  lower mid and upper realm
+
+Chinese: 
+range: lute ring  darts 
+damage: sword blade spear stuff 
+Defense/ damage: Double Blades  iron monk 
+
+Norse
+rank:bow  magical Spear magical sword  daggers
+defense: great sword , shield and sword , shield and spear  daggers
+damage: sword  spear  duel blades 
+
+
+UK roman
+range: bow dagger bombs
+defense sword and shield spear and shield 
+damage :  long hammer  sword  spear 
+
+
+
+afirca
+range whip bow bombs 
